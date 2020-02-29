@@ -1,0 +1,12 @@
+body {
+  background-color:orange;    
+}
+h1 {
+  color:black;
+  font-family:verdana;
+}
+table, th, td {
+  border:3px solid black;
+  border-collapse:collapse;
+  text-align:center;
+}
